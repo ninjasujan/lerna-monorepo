@@ -8,7 +8,7 @@
         "lerna": "^7.0.2"
     },
     "scripts": {
-        "test": "lerna run test",
+        "test": "lerna run test --scope @lerna-monorepo/common",
         "new-version": "lerna version --conventional-commits --yes"
     }
 }
