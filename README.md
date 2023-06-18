@@ -1,0 +1,2 @@
+# lerna-monorepo
+Monorepo Lerna 
