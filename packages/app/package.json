@@ -1,6 +1,6 @@
 {
   "name": "app",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "app",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@lerna-monorepo/shared-lib": "^1.0.2"
+    "@lerna-monorepo/shared-lib": "^1.0.3"
   }
 }
