@@ -1,12 +1,11 @@
 {
-  "name": "server",
-  "version": "1.0.2",
-  "description": "",
+  "name": "app",
+  "version": "1.0.0",
+  "description": "app",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {

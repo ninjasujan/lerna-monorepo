@@ -1,3 +1,3 @@
-const { getUniqueID } = require("@lerna-monorepo/common");
+const { getUniqueID } = require("@lerna-monorepo/shared-lib");
 
 console.log(getUniqueID());

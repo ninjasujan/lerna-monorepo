@@ -1,7 +1,7 @@
-const { v3: uuid } = require("uuid");
+const { v4: uuid } = require("uuid");
 
 const getUniqueID = () => {
-    return uuid() + uuid();
+    return uuid();
 };
 
 module.exports = {
